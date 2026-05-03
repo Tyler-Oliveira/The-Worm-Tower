@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">🐛 Wormy — ML Network Worm v3.0</h1>
+  <h1 align="center">🐛 The Worm Tower — ML Network Worm v3.0</h1>
   <p align="center">
     <strong>ML-Driven Autonomous Network Propagation Platform</strong>
   </p>
